@@ -12,19 +12,17 @@ Python & Rust · Backend · Data · DevOps
 |---------|-------------|------|
 | [zhiwei](https://github.com/hancic128/zhiwei) | Single-binary observability platform: monitoring, health checks, cert management, alerts, MCP integration | Rust |
 | [hancic-blog](https://github.com/hancic128/hancic-blog) | Self-hosted blog: Rust + SQLite, Markdown authoring, microblog, columns, REST API & MCP | Rust |
+| [bluebird](https://github.com/hancic128/bluebird) | Webhook → multi-channel notification gateway (Bark, Feishu, WeCom, generic HTTP) | HTML |
+| [shibei](https://github.com/hancic128/shibei) | Indie dev intelligence tool: extract insights from tech communities via LLM | Python |
 | [bosskey-stock](https://github.com/hancic128/bosskey-stock) | Terminal A-share real-time stock monitor — no browser, no API key needed | Python |
 | [ccvt](https://github.com/hancic128/ccvt) | Coordinate conversion CLI: WGS84 / GCJ02 / BD09 / CGCS2000 + format conversion | Rust |
-| [shibei](https://github.com/hancic128/shibei) | Indie dev intelligence tool: extract insights from tech communities via LLM | Python |
-| [666tools](https://github.com/hancic128/666tools) | Developer toolbox desktop app: format, encode, convert, debug, generate | Vue 3 + Tauri 2 |
 
 ## Other Projects
 
-- [bluebird](https://github.com/hancic128/bluebird) — Webhook → multi-channel notification gateway (Bark, Feishu, WeCom)
-- [tj-datamodel](https://github.com/hancic128/tj-datamodel) — Quant ecosystem shared data models
-- [tj-calendar](https://github.com/hancic128/tj-calendar) — Offline-first A-share trading calendar
-- [tj-symbols](https://github.com/hancic128/tj-symbols) — China securities code standardization & conversion
-- [daily-q](https://github.com/hancic128/daily-q) — Daily coding interview practice with AI feedback
+- [666tools](https://github.com/hancic128/666tools) — Developer toolbox desktop app: format, encode, convert, debug, generate (Vue 3 + Tauri 2)
+- [daily-q](https://github.com/hancic128/daily-q) — Daily coding interview practice with AI feedback (Rust)
 - [streamling](https://github.com/hancic128/streamling) — Data streaming runtime with Rust/WASM plugins
+- [asset-tracker](https://github.com/hancic128/asset-tracker) — Personal asset management: subscriptions & stored-value cards (TypeScript + SQLite)
 
 ## Tech Stack
 
@@ -41,5 +39,6 @@ Python & Rust · Backend · Data · DevOps
 
 ## Connect
 
-- 🌐 [hancic.site](https://hancic.site/)
+- 🌐 [hancic.site](https://hancic.site/) (中文)
+- 🌐 [en.hancic.site](https://en.hancic.site/) (English)
 - 📧 angryshark708@gmail.com

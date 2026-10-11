@@ -41,4 +41,4 @@ Python & Rust · Backend · Data · DevOps
 
 - 🌐 [hancic.site](https://hancic.site/) (中文)
 - 🌐 [en.hancic.site](https://en.hancic.site/) (English)
-- 📧 hancicsite@outlook.com
+- 📧 angryshark708@gmail.com

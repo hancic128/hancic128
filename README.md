@@ -10,6 +10,7 @@ Python & Rust · Backend · Data · DevOps
 
 | Project | Description | Lang |
 |---------|-------------|------|
+| [agent-notifier](https://github.com/hancic128/agent-notifier) | Push notifications for Claude Code / Codex CLI / Kimi Code — Feishu, Lark, Slack, Bark, DingTalk, WeCom, PushDeer, Bluebird | Shell |
 | [zhiwei](https://github.com/hancic128/zhiwei) | Single-binary observability platform: monitoring, health checks, cert management, alerts, MCP integration | Rust |
 | [hancic-blog](https://github.com/hancic128/hancic-blog) | Self-hosted blog: Rust + SQLite, Markdown authoring, microblog, columns, REST API & MCP | Rust |
 | [bluebird](https://github.com/hancic128/bluebird) | Webhook → multi-channel notification gateway (Bark, Feishu, WeCom, generic HTTP) | HTML |

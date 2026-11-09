@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: hancic128
           plugin_languages: yes
-          config_display: columns
+          config_display: regular
           filename: github-metrics.svg
           output_action: commit
           committer_branch: metrics

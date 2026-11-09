@@ -35,8 +35,9 @@ Python & Rust · Backend · Data · DevOps
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hancic128&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hancic128&layout=compact&theme=transparent&hide_border=true)
+Rendered by [lowlighter/metrics](https://github.com/lowlighter/metrics) and committed to the `metrics` branch, so it does not depend on any third-party deployment staying up.
+
+![GitHub Stats and Top Langs](https://raw.githubusercontent.com/hancic128/hancic128/metrics/github-metrics.svg)
 
 ## Connect
 
